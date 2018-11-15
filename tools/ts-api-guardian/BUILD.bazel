@@ -44,7 +44,7 @@ npm_package(
     ],
     deps = [
         ":lib",
-        ":license",
+        # ":license",
     ],
 )
 
